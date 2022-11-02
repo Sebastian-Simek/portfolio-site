@@ -8,6 +8,9 @@ module.exports = {
       lg: "976",
       xl: "1440px",
     },
+    container: {
+      center: true,
+    },
     extend: {},
   },
   plugins: [],
